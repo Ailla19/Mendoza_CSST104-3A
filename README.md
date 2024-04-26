@@ -20,7 +20,7 @@ Welcome to the compilation of my outputs for CSST104. This repository contains v
 
 - <a href = "3A_Exer4_Mendoza.ipynb>Exercise4: <a>
 - <a href = "3A_EXER5_Mendoza.ipynb>Exercise5: <a>
-- <a href = "3A_Exer6_Mendoza.ipynb:Exercise6: onlinefoods <a>
+- <a href = "3A_Exer6_Mendoza.ipynb:Exercise6:onlinefoods <a>
 
 - <a href = "3A_Exer7_Mendoza.ipynb>Exercise7:Netflix_Userbase <a>
 - <a href = "3A_EXER8_Mendoza.ipynb>Exercise8:most-polluted-countries <a>
